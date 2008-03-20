@@ -10,16 +10,20 @@ We need a network-based demo of live data for the NSF, these pages are to plan i
 Start with a low-risk demo we *know* we can do, and plan cool additional bits as time/effort/resources permit.
 
 === Base demo ===
-Live data from SMER, in a simplified RDV interface.
+Live data from SMER and marine images from Kenting, in a simplified RDV interface.
 
 Details: SMER data has been reliably going to SDSU for months now, so the only issue is use of HWREN. A true RBNB mirror would solve that, too, but for now we have to punt and use a server shortcut.
 
-RDV can be simplified by editing extensions.xml, and also by code changes. Larry is on this.
+RDV UI can be streamlined. We'll make our own branch of the RDV source code to accomplish this. Larry is on this.
+Initial version here: 
+http://users.sdsc.edu/~ljmiller/side-tools/rdv/RDVsmer-sc.jnlp
 
 Requires
- # Demo data sources - SMER DAQ, SMER video, fake_daq, whatever else we can muster
+ # Demo data sources - SMER DAQ, SMER video, Kenting video, fake_daq, whatever else we can muster
  # niagara.sdsc.edu for RBNB host
  # Custom RDV & JNLP for NSF
+Initial version here: 
+http://users.sdsc.edu/~ljmiller/side-tools/rdv/RDVsmer-sc.jnlp
 
 === In roughly increasing order of difficulty/risk ===
  # Replace Axis 223m camera with iQeye unit. New housing, new Java codebase, but better integrated housing and nice test of new code. Diverse devices good. Requires
