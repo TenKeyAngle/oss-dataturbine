@@ -22,8 +22,6 @@ Requires
  # Demo data sources - SMER DAQ, SMER video, Kenting video, fake_daq, whatever else we can muster
  # niagara.sdsc.edu for RBNB host
  # Custom RDV & JNLP for NSF
-Initial version here: 
-http://users.sdsc.edu/~ljmiller/side-tools/rdv/RDVsmer-sc.jnlp
 
 === In roughly increasing order of difficulty/risk ===
  # Replace Axis 223m camera with iQeye unit. New housing, new Java codebase, but better integrated housing and nice test of new code. Diverse devices good. Requires
