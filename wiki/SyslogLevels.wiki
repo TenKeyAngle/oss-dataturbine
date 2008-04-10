@@ -6,7 +6,7 @@ Copied from /etc/sys/syslog.h on a Solaris 10 system
 
 
 = Details =
-
+{{{
 /*
  *  Facility codes
  */
@@ -55,3 +55,4 @@ Copied from /etc/sys/syslog.h on a Solaris 10 system
 #define LOG_UPTO(pri)   ((1 << ((pri)+1)) - 1)  /* all priorities through pri */
 
 /*
+}}}
