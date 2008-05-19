@@ -28,3 +28,6 @@ San Diego, CA 92121
  # http://www.farecast.com/
  # http://www.kayak.com
  # http://www.farecompare.com/search/yupfares.html
+
+== International travel ==
+  # http://www.uctrips-insurance.org/servlet/guest?service=0&formId=2 Notifies UC of international biz travel and returns insurance card for trip.
