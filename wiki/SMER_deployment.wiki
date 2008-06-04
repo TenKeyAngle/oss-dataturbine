@@ -1,5 +1,7 @@
+#summary This document describes the proof of concept dataturbine architecture that was deployed at the Santa Margarita Ecological Reserve on 7/11/07.
+
 ==OVERVIEW==
-This document describes the proof of concept dataturbine architecure that was deployed at the Santa Margarita Ecological Reserve on 7/11/07.
+This document describes the proof of concept dataturbine architecture that was deployed at the Santa Margarita Ecological Reserve on 7/11/07.
 
 ==SYSTEM ARCHITECTURE==
   * Data acquisition (DAQ) - National Instruments CompactRIO in an outdooor enclosure on HPWREN at 172.23.37.61 running software at: http://nladr-cvs.sdsc.edu/svn-public/CLEOS/labview/cleosRIO/
